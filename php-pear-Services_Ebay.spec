@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.13.1
-Release:	1
+Release:	2
 Summary:	Interface to eBay's XML-API
 License:	PHP License
 Group:		Development/PHP
