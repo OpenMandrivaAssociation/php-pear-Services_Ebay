@@ -8,7 +8,7 @@ Release:	2
 Summary:	Interface to eBay's XML-API
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Services_Ebay/
+URL:		https://pear.php.net/package/Services_Ebay/
 Source0:	http://download.pear.php.net/package/Services_Ebay-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
